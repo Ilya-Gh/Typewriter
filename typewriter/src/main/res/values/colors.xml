@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="carriage_color">#ffffff</color>
+    <color name="button_pressed">#22ffffff</color>
+
+</resources>

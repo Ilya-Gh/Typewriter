@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="typewriter_padding">5dp</dimen>
+
+    <dimen name="offset">20dp</dimen>
+    <dimen name="carriage_offset">50dp</dimen>
+    <dimen name="page_offset">20dp</dimen>
+
+</resources>

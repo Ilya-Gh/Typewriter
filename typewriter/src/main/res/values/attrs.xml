@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <declare-styleable name="TypewriterRefreshLayout" tools:ignore="ResourceName">
+        <attr name="ptr_fireworkColors" format="reference"/>
+        <attr name="ptr_background" format="reference"/>
+        <attr name="ptr_backgroundColor" format="color" />
+        <attr name="ptr_rocketAnimDuration" format="integer"/>
+        <attr name="ptr_fireworkStyle" format="enum">
+            <enum name="classic" value="0"/>
+            <enum name="modern" value="1"/>
+        </attr>
+    </declare-styleable>
+</resources>
